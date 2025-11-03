@@ -2,6 +2,12 @@
 
 An intelligent system for scraping, analyzing, and summarizing global commodity and agriculture news using Natural Language Processing and sentiment analysis.
 
+## Problem Definition
+
+Global commodity and agriculture markets move fast, generating massive volumes of news and reports every hour. Analysts, traders, and agribusiness leaders struggle to keep up — manually scanning articles, reports, and market updates is slow, inconsistent, and prone to bias. Valuable insights are often missed simply because there’s too much information to process in real time.
+
+The AI Market Research Assistant solves this problem by using Natural Language Processing (NLP) to scrape, analyze, and summarize market news from multiple sources. It applies sentiment analysis and entity recognition to extract trends, company mentions, and commodity insights — transforming raw information into actionable intelligence through automated reports and an interactive dashboard.
+
 ## Features
 
 - Multi-source web scraping from RSS feeds
